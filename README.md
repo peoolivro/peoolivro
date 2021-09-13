@@ -1,8 +1,10 @@
 ### Introdução a Python com Aplicações de Sistemas Operacionais
 
-> 📗 Capítulo 1 - Introdução<br/><br/>
-> 📘 Capítulo 2 <br/><br/>
-> 📙 Capítulo 3 <br/><br/>
+📗 Capítulo 1 - Introdução<br/><br/>
+Teste<br/><br/>
+📘 Capítulo 2 - Sequenciação<br/><br/>
+Teste2<br/><br/>
+📙 Capítulo 3 <br/><br/>
 > 📗 Capítulo 4 <br/><br/>
 > 📘 Capítulo 5 <br/><br/>
 > 📙 Capítulo 6 <br/><br/>
