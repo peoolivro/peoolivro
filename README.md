@@ -1,17 +1,14 @@
-## Introdução a Python com Aplicações de Sistemas Operacionais
+# Introdução a Python com Aplicações de Sistemas Operacionais
 
-📗 Capítulo 1 - Introdução<br/><br/>
-Teste<br/><br/>
-📘 Capítulo 2 - Sequenciação<br/><br/>
-Teste2<br/><br/>
-📙 Capítulo 3 <br/><br/>
-> 📗 Capítulo 4 <br/><br/>
-> 📘 Capítulo 5 <br/><br/>
-> 📙 Capítulo 6 <br/><br/>
-> 📗 Capítulo 7 <br/><br/>
-> 📘 Capítulo 8 <br/><br/>
-> 📙 Capítulo 9
-
+📗 **Capítulo 1** - INTRODUÇÃO<br/><br/>
+📘 **Capítulo 2** - EXECUÇÃO SEQUENCIAL<br/><br/>
+📙 **Capítulo 3** - ESTRUTURAS CONDICIONAIS<br/><br/>
+📗 **Capítulo 4** - ESTRUTURAS DE REPETIÇÃO <br/><br/>
+📘 **Capítulo 5** - LISTAS<br/><br/>
+📙 **Capítulo 6** - DICIONÁRIOS <br/><br/>
+📗 **Capítulo 7** - FUNÇÕES <br/><br/>
+📘 **Capítulo 8** - INTRODUÇÃO À ORIENTAÇÃO A OBJETOS <br/><br/>
+📙 **Capítulo 9** - APLICAÇÕES DE SISTEMAS OPERACIONAIS
 
 <!--
 **peoolivro/peoolivro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
