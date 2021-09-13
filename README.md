@@ -1,4 +1,4 @@
-### Hi there 👋
+### Introdução a Python com Aplicações em Sistemas Operacionais
 
 <!--
 **peoolivro/peoolivro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
