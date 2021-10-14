@@ -13,7 +13,7 @@ Para fazer o **download gratuito** do livro, [clique aqui](https://memoria.ifrn.
 **Rodrigo S. Martins** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Experiência em administração e gerenciamento de redes de computadores, sistemas operacionais, IoT e áreas afins. Doutor (2014) em Sistemas e Computação pela Universidade Federal do Rio Grande do Norte e Pós-Doutorado na Universidade
 de Lancaster, Inglaterra.
 
-**Givanaldo R. Souza** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Doutor em Ciência da Computação, na área de Algoritmos Experimentais, pela Universidade Federal do Rio Grande do Norte. Possui experiência em desenvolvimento de sistemas e já palestrou na Python Nordeste e Python Brasil.
+**Givanaldo R. Souza** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Doutor (2013) em Ciência da Computação, na área de Algoritmos Experimentais, pela Universidade Federal do Rio Grande do Norte. Possui experiência em desenvolvimento de sistemas e já palestrou na Python Nordeste e Python Brasil.
 
 <!--
 **peoolivro/peoolivro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
