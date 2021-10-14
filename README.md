@@ -3,6 +3,17 @@ Por que mais um livro abordando a linguagem Python? Essa foi uma das perguntas q
 
 Falando em aplicação prática, foi unânime a decisão, em abordarmos neste livro, algoritmos aplicados em Sistemas Operacionais. O motivo é o fato de esses algoritmos serem ferramentas excelentes para consolidação de conhecimentos de programação, além de serem essenciais na formação de um programador profissional. E mais, um sistema operacional é um dos melhores exemplos de programação: são milhões de linhas de código que cobrem um grande espectro de problemas. Entender um pouco desse mundo pode fazer de você um programador melhor.
 
+
+# Sobre os Autores
+**Fábio A. P. Paiva** possui experiência em desenvolvimento de sistemas e em administração de banco de dados. Doutor (2016) em Engenharia Elétrica e de Computação pela Universidade Federal do Rio Grande do Norte (UFRN). Professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte e desenvolve projetos com a Universidade de Coimbra, Portugal.
+
+**João M. A. Nascimento** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Possui experiência em desenvolvimento de sistemas de informação e de automação industrial. Atua em projetos para ensino de robótica e de temáticas aeroespaciais. Mestre em Engenharia Elétrica e de Computação (2005) pela Universidade Federal do Rio Grande do Norte.
+
+**Rodrigo S. Martins** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Experiência em administração e gerenciamento de redes de computadores, sistemas operacionais, IoT e áreas afins. Doutor (2014) em Sistemas e Computação pela Universidade Federal do Rio Grande do Norte e Pós-Doutorado na Universidade
+de Lancaster, Inglaterra.
+
+**Givanaldo R. Souza** é professor do Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte. Doutor em Ciência da Computação, na área de Algoritmos Experimentais, pela Universidade Federal do Rio Grande do Norte. Possui experiência em desenvolvimento de sistemas e já palestrou na Python Nordeste e Python Brasil.
+
 <!--
 **peoolivro/peoolivro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
